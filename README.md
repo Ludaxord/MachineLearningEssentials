@@ -95,4 +95,3 @@ Directory consist dimensionality reduction algorithms:
 * K-Fold Cross Validation
 
 * xgBoost
-x
